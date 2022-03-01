@@ -1,1 +1,1 @@
-# mini_project_c
+Project on finding shortest path using Dijkstra algorithm 
