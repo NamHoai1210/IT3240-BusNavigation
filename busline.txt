@@ -1,0 +1,30 @@
+Bus station 1/Bus stop 2
+9
+Bus stop 2/Bus stop 3
+24
+Bus stop 4/Bus stop 3
+6
+Bus stop 5/Bus stop 4
+11
+Bus stop 6/Bus stop 5
+30
+Bus stop 6/Bus stop 7
+5
+Bus stop 7/Bus station 8
+44
+Bus station 1/Bus stop 6
+14
+Bus station 1/Bus stop 7
+15
+Bus stop 6/Bus stop 3
+18
+Bus stop 7/Bus stop 5
+20
+Bus stop 3/Bus stop 5
+2
+Bus stop 3/Bus station 8
+19
+Bus stop 5/Bus station 8
+16
+Bus stop 4/Bus station 8
+6

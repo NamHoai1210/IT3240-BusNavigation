@@ -1,0 +1,1 @@
+gcc -Wno-format -o main dllist.c jval.c jrb.c bus-function.c main.c -Wno-deprecated-declarations -Wno-format-security -lm `pkg-config --cflags --libs gtk+-3.0` -export-dynamic

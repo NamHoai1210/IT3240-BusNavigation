@@ -1,0 +1,14 @@
+B01
+Bus station 1/Bus station 8
+B02
+Bus station 1/Bus station 8
+B03
+Bus station 1/Bus station 8
+B04
+Bus station 1/Bus station 8
+B05
+Bus stop 6/Bus station 8
+B06
+Bus stop 2/Bus stop 4
+B07
+Bus stop 7/Bus stop 3
