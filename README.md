@@ -1,1 +1,1 @@
-Project on finding shortest path using Dijkstra algorithm 
+Project on finding shortest path using Dijkstra algorithm (GUI)
